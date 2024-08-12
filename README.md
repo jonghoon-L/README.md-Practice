@@ -1,1 +1,19 @@
 # ReadMe.md-Practice
+
+# 이름: 이종훈
+## 나이: 24세
+### 거주 지역: 용인 기흥 
+
+* 안녕하세요 전 이종훈이라고 합니다 *
+_ 안녕하세요 전 이종훈이라고 합니다 _
+** 안녕하세요 전 이종훈이라고 합니다 **
+__ 안녕하세요 전 이종훈이라고 합니다 __
+~~ 안녕하세요 전 이종훈이라고 합니다 ~~
+
+    print("My name is JongHoon")
+    // 코드 출력
+
+E-mail: <ghoon7777@naver.com>
+Notion: (https://www.notion.so/invite/4bbd41b2a637839670e77c5d6651ee6fac749886)
+
+
